@@ -1,0 +1,63 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "memberGrade": "아싸컴 회원",
+  "orders": [
+   {
+    "orderNo": "AS1001",
+    "item": "게이밍/그래픽작업용 G3 (본체만 구매)",
+    "status": "상품준비중",
+    "claim": null
+   },
+   {
+    "orderNo": "AS1002",
+    "item": "사무/가정용 오피스 B5 (윈도우 포함)",
+    "status": "결제완료",
+    "claim": null
+   },
+   {
+    "orderNo": "AS1003",
+    "item": "고사양게임/영상편집용 H1 (모니터 포함)",
+    "status": "배송중",
+    "claim": null
+   },
+   {
+    "orderNo": "AS1004",
+    "item": "27인치 QHD 게이밍 모니터 165Hz",
+    "status": "배송완료",
+    "claim": null
+   },
+   {
+    "orderNo": "AS1005",
+    "item": "프리미엄 4K 화이트 P2 (본체만 구매)",
+    "status": "배송완료",
+    "claim": null
+   },
+   {
+    "orderNo": "AS1006",
+    "item": "텐키리스 기계식 키보드 갈축",
+    "status": "배송완료",
+    "claim": null
+   },
+   {
+    "orderNo": "AS1007",
+    "item": "리퍼비시 게이밍 R2 (본체만 구매)",
+    "status": "주문접수",
+    "claim": null
+   },
+   {
+    "orderNo": "AS1008",
+    "item": "딥러닝 워크스테이션 W1 (윈도우 포함)",
+    "status": "배송완료",
+    "claim": null
+   },
+   {
+    "orderNo": "AS1009",
+    "item": "무선 게이밍 마우스 듀얼휠",
+    "status": "배송중",
+    "claim": null
+   }
+  ]
+ }
+}

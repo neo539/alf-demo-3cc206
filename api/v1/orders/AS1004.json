@@ -1,0 +1,16 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "AS1004",
+  "item": "27인치 QHD 게이밍 모니터 165Hz",
+  "brand": "아싸컴",
+  "price": 259000,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 3,
+  "carrier": "CJ대한통운",
+  "tracking": "6890-1118-1004"
+ }
+}

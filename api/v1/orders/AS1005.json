@@ -1,0 +1,17 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "AS1005",
+  "item": "프리미엄 4K 화이트 P2 (본체만 구매)",
+  "brand": "아싸컴",
+  "price": 2849000,
+  "pay": "신용카드 분할결제",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 2,
+  "carrier": "CJ대한통운",
+  "tracking": "6890-1118-1005",
+  "note": "RTX 5070 Ti 이상급 그래픽카드는 분리해 별도 박스로 보냈습니다(데모)."
+ }
+}

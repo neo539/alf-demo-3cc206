@@ -1,0 +1,17 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "AS1008",
+  "item": "딥러닝 워크스테이션 W1 (윈도우 포함)",
+  "brand": "아싸컴",
+  "price": 4390000,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 40,
+  "carrier": "CJ대한통운",
+  "tracking": "6890-1118-1008",
+  "note": "온라인 A/S 접수 완료, 센터 입고 대기(데모). 무상 기간이라 하드웨어 A/S 비용은 청구되지 않습니다."
+ }
+}

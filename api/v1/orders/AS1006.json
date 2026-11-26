@@ -1,0 +1,16 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "AS1006",
+  "item": "텐키리스 기계식 키보드 갈축",
+  "brand": "아싸컴",
+  "price": 69000,
+  "pay": "간편결제",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 12,
+  "carrier": "CJ대한통운",
+  "tracking": "6890-1118-1006"
+ }
+}

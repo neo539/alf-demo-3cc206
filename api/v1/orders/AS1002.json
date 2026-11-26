@@ -1,0 +1,15 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "AS1002",
+  "item": "사무/가정용 오피스 B5 (윈도우 포함)",
+  "brand": "아싸컴",
+  "price": 448900,
+  "pay": "무통장 입금(입금 완료)",
+  "type": "일반",
+  "status": "결제완료",
+  "paid": 0,
+  "shipEta": 5
+ }
+}
